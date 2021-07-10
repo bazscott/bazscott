@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi, I'm Baz 👋
 
 * 🔭 I’m working on healthcare software at [https://www.fivegoodfriends.com.au](https://www.fivegoodfriends.com.au)
 * 🌱 I’m interested in mobile development, engineering management, economics, stats, football, politics ++ + 😄
